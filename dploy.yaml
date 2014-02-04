@@ -1,0 +1,8 @@
+zpm:
+  host: "zpmpabich.pl"
+  user: "zpm"
+  pass: "Cae4Xtta2E"
+  port: "2121"
+  scheme: "ftp"
+  path:
+    remote: "/wp-content/themes/zpm-wordpress-theme"
