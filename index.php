@@ -1,6 +1,7 @@
 <?php get_header(); ?>
 
 	<main role="main">
+		pierdu pierdu
 		<!-- section -->
 		<section>	
 

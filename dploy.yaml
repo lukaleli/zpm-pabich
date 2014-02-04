@@ -5,4 +5,4 @@ zpm:
   port: "2121"
   scheme: "ftp"
   path:
-    remote: "/wp-content/themes/zpm-wordpress-theme"
+    remote: "/wp-content/themes/zpm-wordpress-theme/"
